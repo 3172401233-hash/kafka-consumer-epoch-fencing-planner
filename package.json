@@ -1,0 +1,12 @@
+{
+  "name": "kafka-consumer-epoch-fencing-planner",
+  "version": "1.0.0",
+  "description": "Ownership state machine for consumer group rebalancing with epoch fencing (decision generator only)",
+  "type": "module",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
